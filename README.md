@@ -27,7 +27,7 @@ Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf-question-extractor.git
+git clone https://github.com/simonraj1/pdf-question-extractor.git
 cd pdf-question-extractor
 ```
 
